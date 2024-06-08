@@ -61,14 +61,21 @@ namespace Services.ServPurchaseDetail
             _myDbContext.SaveChanges();
         }
         public PurchaseDetail UpdatePurchase(int id, PurchaseDetail purchase)
-        {
+        { 
             PurchaseDetail purchaseUpdate = _myDbContext.PurchaseDetails.Find(id);
-            purchaseUpdate.Quantity = purchase.Quantity;
+            if (purchaseUpdate == null)
+            {
+                return null;
+            }
+            else
+            {
+                purchaseUpdate.Quantity = purchase.Quantity;
 
-            _myDbContext.Update(purchaseUpdate);
-            _myDbContext.SaveChanges();
+                _myDbContext.Update(purchaseUpdate);
+                _myDbContext.SaveChanges();
 
-            return purchaseUpdate;
+                return purchaseUpdate;
+            }
         }
         #endregion
 
