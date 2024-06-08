@@ -10,7 +10,7 @@ namespace Services.NewFolder
             public string sendMail(string to, string asunto, string body)
             {
                 string msge = "Error al enviar este correo. Por favor verifique los datos o intente más tarde.";
-                string from = "jdromfer16@outlook.es";
+                string from = "Tienda_SportZone@outlook.es";
                 string displayName = "Factura";
                 try
                 {
@@ -24,7 +24,7 @@ namespace Services.NewFolder
 
 
                     SmtpClient client = new SmtpClient("smtp-mail.outlook.com", 587); //Aquí debes sustituir tu servidor SMTP y el puerto
-                    client.Credentials = new NetworkCredential(from, "JosDani07");
+                    client.Credentials = new NetworkCredential(from, "SportZone123*");
                     client.EnableSsl = true;//En caso de que tu servidor de correo no utilice cifrado SSL,poner en false
 
 

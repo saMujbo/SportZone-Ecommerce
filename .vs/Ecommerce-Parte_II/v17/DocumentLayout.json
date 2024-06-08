@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servmail\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servmail\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servinvoice\\svinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servinvoice\\svinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servcustomer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servcustomer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SvCustomer.cs",
+              "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServCustomer\\SvCustomer.cs",
+              "RelativeDocumentMoniker": "Services\\ServCustomer\\SvCustomer.cs",
+              "ToolTip": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServCustomer\\SvCustomer.cs",
+              "RelativeToolTip": "Services\\ServCustomer\\SvCustomer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:16:29.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SvInvoice.cs",
+              "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServInvoice\\SvInvoice.cs",
+              "RelativeDocumentMoniker": "Services\\ServInvoice\\SvInvoice.cs",
+              "ToolTip": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServInvoice\\SvInvoice.cs",
+              "RelativeToolTip": "Services\\ServInvoice\\SvInvoice.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAApwEIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:15:31.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServMail\\Mail.cs",
+              "RelativeDocumentMoniker": "Services\\ServMail\\Mail.cs",
+              "ToolTip": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServMail\\Mail.cs",
+              "RelativeToolTip": "Services\\ServMail\\Mail.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:15:13.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

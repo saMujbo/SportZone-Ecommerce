@@ -89,3 +89,15 @@ C:\programacion II\CodigoFinal\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\En
 C:\programacion II\CodigoFinal\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\refint\Entidades.dll
 C:\programacion II\CodigoFinal\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\Entidades.pdb
 C:\programacion II\CodigoFinal\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\ref\Entidades.dll
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\bin\Debug\net7.0\Entidades.deps.json
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\bin\Debug\net7.0\Entidades.dll
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\bin\Debug\net7.0\Entidades.pdb
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfoInputs.cache
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfo.cs
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\Entidades.sourcelink.json
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\Entidades.dll
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\refint\Entidades.dll
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\Entidades.pdb
+C:\programacion II\codigo final\SportZone-Ecommerce\Entidades\obj\Debug\net7.0\ref\Entidades.dll
