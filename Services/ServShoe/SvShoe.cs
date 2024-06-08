@@ -68,13 +68,13 @@ namespace Services.Shoe
             public List<Entidades.Shoe> GetAllShoes()
             {
                 var listValidCategories = _svCategory.GetAllCategories().Select(x=>x.Id);
-                return _myDbContext.Shoes.Include(x => x.Category).Where(Shoe => Shoe.IsActive && listValidCategories.Contains(Shoe.CategoryId)).ToList();
+                return _myDbContext.Shoes.Where(Shoe => Shoe.IsActive && listValidCategories.Contains(Shoe.CategoryId)).ToList();
             }
 
         public Entidades.Shoe GetShoeById(int id)
         {
             var listValidCategories = _svCategory.GetAllCategories().Select(x => x.Id);
-            return _myDbContext.Shoes.Include(x => x.Category).Where(Shoe => Shoe.IsActive && listValidCategories.Contains(Shoe.CategoryId)).SingleOrDefault(x => x.Id == id);
+            return _myDbContext.Shoes.Where(Shoe => Shoe.IsActive && listValidCategories.Contains(Shoe.CategoryId)).SingleOrDefault(x => x.Id == id);
         }
         #endregion
     }
