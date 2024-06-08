@@ -1,0 +1,235 @@
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Services.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Services.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Entidades.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Entidades.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.sourcelink.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Entidades.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Entidades.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.exe
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Entidades.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Entidades.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\bin\Debug\net7.0\Entidades.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.exe
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Entidades.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.exe
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Entidades.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\bin\Debug\net7.0\Entidades.pdb
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Services.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Services.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Entidades.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\bin\Debug\net7.0\Entidades.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Services\obj\Debug\net7.0\Services.sourcelink.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Services.exe
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Services.deps.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Services.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Services.pdb
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Entidades.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\bin\Debug\net7.0\Entidades.pdb
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\Services.sourcelink.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\Services.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\refint\Services.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\Services.pdb
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Services\obj\Debug\net7.0\ref\Services.dll

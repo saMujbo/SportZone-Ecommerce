@@ -1,0 +1,379 @@
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\appsettings.Development.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\appsettings.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.AssemblyReference.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfoInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.CoreCompileInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\scopedcss\bundle\Ecommerce-API.styles.css
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\refint\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.genruntimeconfig.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\ref\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Services.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Services.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Entidades.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\bin\Debug\net7.0\Entidades.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.sourcelink.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Ecommerce-API\obj\Debug\net7.0\Ecommerc.34A68E8C.Up2Date
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\appsettings.Development.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\appsettings.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Entidades.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Entidades.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.AssemblyReference.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfoInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.CoreCompileInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\scopedcss\bundle\Ecommerce-API.styles.css
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerc.34A68E8C.Up2Date
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\refint\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.genruntimeconfig.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\ref\Ecommerce-API.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\appsettings.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.deps.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.exe
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.exe
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.deps.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.runtimeconfig.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Entidades.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.AssemblyReference.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfoInputs.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfo.cs
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.CoreCompileInputs.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce-API.props
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce-API.props
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce-API.props
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\scopedcss\bundle\Ecommerce-API.styles.css
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerc.34A68E8C.Up2Date
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\refint\Ecommerce-API.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.genruntimeconfig.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\ref\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\appsettings.Development.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\appsettings.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Entidades.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Entidades.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.AssemblyReference.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfoInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.CoreCompileInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\scopedcss\bundle\Ecommerce-API.styles.css
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerc.34A68E8C.Up2Date
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\refint\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.genruntimeconfig.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Definitivo\Prueba-Proyecto_Final\Prueba-Proyecto_Final\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\ref\Ecommerce-API.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.AssemblyReference.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfoInputs.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfo.cs
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.CoreCompileInputs.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\refint\Ecommerce-API.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\appsettings.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.deps.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.exe
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.exe
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.deps.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.runtimeconfig.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Entidades.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.dll
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce-API.props
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce-API.props
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce-API.props
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\scopedcss\bundle\Ecommerce-API.styles.css
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerc.34A68E8C.Up2Date
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.genruntimeconfig.cache
+C:\Users\Samue\OneDrive - Universidad Nacional de Costa Rica\Desktop\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\ref\Ecommerce-API.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\appsettings.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.deps.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.exe
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.exe
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.deps.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.runtimeconfig.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.pdb
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Entidades.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Services.pdb
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\bin\Debug\net7.0\Entidades.pdb
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.AssemblyReference.cache
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfoInputs.cache
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfo.cs
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.CoreCompileInputs.cache
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce-API.props
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce-API.props
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce-API.props
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\scopedcss\bundle\Ecommerce-API.styles.css
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerc.34A68E8C.Up2Date
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\refint\Ecommerce-API.dll
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.pdb
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.genruntimeconfig.cache
+C:\Users\geral\OneDrive\Escritorio\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\ref\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\appsettings.Development.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\appsettings.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Services.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Services.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.exe
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.deps.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.runtimeconfig.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Entidades.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Services.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\bin\Debug\net7.0\Entidades.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.AssemblyReference.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfoInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.CoreCompileInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce-API.props
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\scopedcss\bundle\Ecommerce-API.styles.css
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerc.34A68E8C.Up2Date
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\refint\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.pdb
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.genruntimeconfig.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\ref\Ecommerce-API.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Proyecto-SpportZoneFInal\Prueba\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.sourcelink.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\appsettings.Development.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\appsettings.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Services.deps.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Services.exe
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.exe
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.deps.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.runtimeconfig.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Ecommerce-API.pdb
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Entidades.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Services.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Services.pdb
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\bin\Debug\net7.0\Entidades.pdb
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.AssemblyReference.cache
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfoInputs.cache
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfo.cs
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.CoreCompileInputs.cache
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cs
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cache
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.sourcelink.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\staticwebassets.build.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\staticwebassets.development.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce-API.props
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce-API.props
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce-API.props
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\scopedcss\bundle\Ecommerce-API.styles.css
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerc.34A68E8C.Up2Date
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\refint\Ecommerce-API.dll
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.pdb
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.genruntimeconfig.cache
+C:\programacion II\CodigoFinal\SportZone-Ecommerce\Ecommerce-API\obj\Debug\net7.0\ref\Ecommerce-API.dll
