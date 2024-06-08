@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servcategory\\svcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servcategory\\svcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servinvoice\\svinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servinvoice\\svinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servpurchasedetail\\svpurchasedatail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servpurchasedetail\\svpurchasedatail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\entidades\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servshoe\\svshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servshoe\\svshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servcategory\\svcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servcategory\\svcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servcustomer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servcustomer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servmail\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servmail\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servcustomer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servcustomer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\entidades\\purchasedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\purchasedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\ecommerce-api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|solutionrelative:ecommerce-api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servshoe\\svshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servshoe\\svshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\codigo final\\sportzone-ecommerce\\services\\servpurchasedetail\\svpurchasedatail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\servpurchasedetail\\svpurchasedatail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +62,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Ecommerce-API\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Ecommerce-API\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Ecommerce-API\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:58:11.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\Invoice.cs",
+              "RelativeDocumentMoniker": "Entidades\\Invoice.cs",
+              "ToolTip": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\Invoice.cs",
+              "RelativeToolTip": "Entidades\\Invoice.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:56:27.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseDetail.cs",
+              "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\PurchaseDetail.cs",
+              "RelativeDocumentMoniker": "Entidades\\PurchaseDetail.cs",
+              "ToolTip": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\PurchaseDetail.cs",
+              "RelativeToolTip": "Entidades\\PurchaseDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:56:19.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SvCategory.cs",
               "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServCategory\\SvCategory.cs",
               "RelativeDocumentMoniker": "Services\\ServCategory\\SvCategory.cs",
               "ToolTip": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServCategory\\SvCategory.cs",
               "RelativeToolTip": "Services\\ServCategory\\SvCategory.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowDcAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T06:40:47.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "SvPurchaseDatail.cs",
               "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServPurchaseDetail\\SvPurchaseDatail.cs",
               "RelativeDocumentMoniker": "Services\\ServPurchaseDetail\\SvPurchaseDatail.cs",
@@ -71,25 +120,23 @@
               "RelativeToolTip": "Services\\ServPurchaseDetail\\SvPurchaseDatail.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAkwEYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:38:37.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T06:38:37.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SvShoe.cs",
               "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServShoe\\SvShoe.cs",
               "RelativeDocumentMoniker": "Services\\ServShoe\\SvShoe.cs",
               "ToolTip": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServShoe\\SvShoe.cs",
               "RelativeToolTip": "Services\\ServShoe\\SvShoe.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:38:24.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T06:38:24.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "SvCustomer.cs",
               "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServCustomer\\SvCustomer.cs",
               "RelativeDocumentMoniker": "Services\\ServCustomer\\SvCustomer.cs",
@@ -97,17 +144,18 @@
               "RelativeToolTip": "Services\\ServCustomer\\SvCustomer.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:16:29.48Z"
+              "WhenOpened": "2024-06-08T06:16:29.48Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SvInvoice.cs",
               "DocumentMoniker": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServInvoice\\SvInvoice.cs",
               "RelativeDocumentMoniker": "Services\\ServInvoice\\SvInvoice.cs",
               "ToolTip": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServInvoice\\SvInvoice.cs",
               "RelativeToolTip": "Services\\ServInvoice\\SvInvoice.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwBkAAAArAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxcAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T06:15:31.727Z",
               "EditorCaption": ""
@@ -120,7 +168,7 @@
               "RelativeDocumentMoniker": "Services\\ServMail\\Mail.cs",
               "ToolTip": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\ServMail\\Mail.cs",
               "RelativeToolTip": "Services\\ServMail\\Mail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwCoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T06:15:13.697Z",
               "EditorCaption": ""
