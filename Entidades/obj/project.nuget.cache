@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VmKrauYR35LBnkFT9hvNCfMU3h2VoCoUn7prq5ltJguKQMrttidtqVtS8tc3685rW5Uc3sUpsNqnpIKHnbWAFA==",
+  "dgSpecHash": "N0vfUY7SNh3h5yzbmLtIgA6jzG6OaZaycmujaEJRRhTZIQjwTAel/235PDmy9mw3utUKrWI1TotICsGcH0M7zw==",
   "success": true,
-  "projectFilePath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\Entidades.csproj",
+  "projectFilePath": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Entidades/Entidades.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

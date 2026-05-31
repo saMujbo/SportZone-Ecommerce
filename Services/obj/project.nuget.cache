@@ -1,21 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "ASR3G2k8Lo3e+LKD2+s3JD/MKIwFtDqNGXpL3l4SGlQFwseNorn8+wHvJhL4a2ZAJ0h+1K2bQhb/RRFmTkG37g==",
+  "dgSpecHash": "jc3ZBDfwKtubOqKSgkq0xvjTRjxCYbF/FhF/HpG9zrsYWZiCGVP/GVvIGe1ox1NF4VmOZ3enHNQAmo6nztoxEQ==",
   "success": true,
-  "projectFilePath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\Services.csproj",
+  "projectFilePath": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Services/Services.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.18\\microsoft.entityframeworkcore.7.0.18.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.18\\microsoft.entityframeworkcore.abstractions.7.0.18.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.18\\microsoft.entityframeworkcore.analyzers.7.0.18.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.18\\microsoft.entityframeworkcore.inmemory.7.0.18.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "/home/admin/.nuget/packages/microsoft.entityframeworkcore/8.0.18/microsoft.entityframeworkcore.8.0.18.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.18/microsoft.entityframeworkcore.abstractions.8.0.18.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.18/microsoft.entityframeworkcore.analyzers.8.0.18.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.entityframeworkcore.inmemory/8.0.18/microsoft.entityframeworkcore.inmemory.8.0.18.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.extensions.caching.memory/8.0.1/microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.extensions.logging/8.0.1/microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/home/admin/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

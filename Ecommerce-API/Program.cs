@@ -47,4 +47,11 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.MapGet("/health", () => Results.Ok(new
+{
+    status = "UP",
+    service = "SportZone API",
+    timestamp = DateTime.UtcNow
+}));
+
 app.Run();

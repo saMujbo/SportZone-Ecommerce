@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Ecommerce-API\\Ecommerce-API.csproj": {}
+    "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Ecommerce-API/Ecommerce-API.csproj": {}
   },
   "projects": {
-    "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Ecommerce-API\\Ecommerce-API.csproj": {
+    "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Ecommerce-API/Ecommerce-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Ecommerce-API\\Ecommerce-API.csproj",
+        "projectUniqueName": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Ecommerce-API/Ecommerce-API.csproj",
         "projectName": "Ecommerce-API",
-        "projectPath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Ecommerce-API\\Ecommerce-API.csproj",
-        "packagesPath": "C:\\Users\\Samue\\.nuget\\packages\\",
-        "outputPath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Ecommerce-API\\obj\\",
+        "projectPath": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Ecommerce-API/Ecommerce-API.csproj",
+        "packagesPath": "/home/admin/.nuget/packages/",
+        "outputPath": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Ecommerce-API/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\Services.csproj": {
-                "projectPath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\Services.csproj"
+              "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Services/Services.csproj": {
+                "projectPath": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Services/Services.csproj"
               }
             }
           }
@@ -42,28 +36,23 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[8.0.18, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.14, )"
+              "version": "[8.0.18, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [
@@ -85,37 +74,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.127/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\Entidades.csproj": {
+    "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Entidades/Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Entidades/Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\Samue\\.nuget\\packages\\",
-        "outputPath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\obj\\",
+        "projectPath": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Entidades/Entidades.csproj",
+        "packagesPath": "/home/admin/.nuget/packages/",
+        "outputPath": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Entidades/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -123,16 +106,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -149,40 +127,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.127/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\Services.csproj": {
+    "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Services/Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\Services.csproj",
+        "projectUniqueName": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Services/Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\Samue\\.nuget\\packages\\",
-        "outputPath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Services\\obj\\",
+        "projectPath": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Services/Services.csproj",
+        "packagesPath": "/home/admin/.nuget/packages/",
+        "outputPath": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Services/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\programacion II\\codigo final\\SportZone-Ecommerce\\Entidades\\Entidades.csproj"
+              "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Entidades/Entidades.csproj": {
+                "projectPath": "/home/admin/Documents/SportZone-API/SportZone-Ecommerce/Entidades/Entidades.csproj"
               }
             }
           }
@@ -191,20 +163,15 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[7.0.18, )"
+              "version": "[8.0.18, )"
             }
           },
           "imports": [
@@ -223,7 +190,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.127/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
